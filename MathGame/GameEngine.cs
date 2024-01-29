@@ -12,6 +12,9 @@ namespace MathGame
         private static bool inGame = true;
 
 
+       /**
+        * Here where game starts
+        */
         public static void StartGame()
         {
             Console.WriteLine("==============Math Game==============");
